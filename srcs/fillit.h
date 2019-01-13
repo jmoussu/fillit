@@ -6,7 +6,7 @@
 /*   By: jmoussu <jmoussu@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/07 10:22:26 by lubenard          #+#    #+#             */
-/*   Updated: 2019/01/10 10:25:32 by lubenard         ###   ########.fr       */
+/*   Updated: 2019/01/13 05:19:22 by jmoussu          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,9 +16,13 @@
 # include "../libft/libft.h"
 # include <fcntl.h>
 
-# include <stdio.h>
-
 # define BUFF 1024
+
+typedef struct	s_var
+{
+	int r;
+	int s;
+}				t_var;
 
 typedef struct	s_coord
 {
