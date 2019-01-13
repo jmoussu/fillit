@@ -6,7 +6,7 @@
 /*   By: lubenard <lubenard@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/07 13:26:51 by lubenard          #+#    #+#             */
-/*   Updated: 2019/01/08 13:58:46 by lubenard         ###   ########.fr       */
+/*   Updated: 2019/01/12 13:46:33 by lubenard         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 int		usage(void)
 {
-	ft_putstr("usage: fillit source_file\n");
+	ft_putstr("usage: ./fillit source_file\n");
 	return (-1);
 }
 
