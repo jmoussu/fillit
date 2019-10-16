@@ -15,7 +15,7 @@ Cela va lancer également la compilation du deuxieme Makefile, dans le dossier l
 
 # Comment l'utiliser ?
 
-Une fois compilé, il suffit de l'executer en lancant:
+Une fois compilé, il suffit de l'executer en lançant:
 ```
 ./fillit testfile_6p
 ```
@@ -28,4 +28,4 @@ time ./fillit testfile_6p
 
 Pour récuperer le sujet, il suffit de télécharger le repo, le sujet se nomme fillit.fr.pdf
 
-⚠️ Le sujet est tel qu'il était quand ce projet à été validé, il est suceptible d'évoluer avec le temps ⚠️
+⚠️ Le sujet est tel qu'il était quand ce projet à été validé, il est susceptible d'évoluer avec le temps ⚠️
